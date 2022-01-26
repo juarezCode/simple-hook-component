@@ -1,0 +1,18 @@
+{
+  "name": "juarez-use-toggle",
+  "version": "1.0.0",
+  "description": "custom toggle",
+  "main": "use-custom-toggle.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "toggle"
+  ],
+  "author": "Roberto Juarez",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
